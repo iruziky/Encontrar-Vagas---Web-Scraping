@@ -1,0 +1,20 @@
+Nas próximas mensagens eu irei fornecer um texto que extrai de um site de vagas na internet. 
+A partir deste texto, quero que extraia as seguintes informações: 
+
+Cargo;
+Modalidade (Presencial, Remoto ou Híbrido); 
+Carga Horária semanal; 
+Salário; 
+Estado (Nome por extenso);
+Cidade; 
+ 
+Caso não encontre alguma informação, preencha com um valor chamado NULL. 
+ 
+Seja objetivo nas respostas, porque usarei esses dados para preencher uma planilha. Não quero observações 
+Quero apenas o dado precisamente.
+ 
+Por fim, me retorno a resposta em apenas uma linha, com cada resposta separada pelo caracatere especial de tabulação (\t)
+Preciso desse formato para gerar um arquivo csv padronizado 
+
+Exemplo do formato que quero de resposta: 
+Analista de Dados\tPresencial\t42 horas\tA combinar\tCuritiba\tÁgua Verde

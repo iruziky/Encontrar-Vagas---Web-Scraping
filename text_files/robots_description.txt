@@ -1,0 +1,3 @@
+Nas próximas interações irei fornecer todo o conteúdo da página "/robots.txt" de um site
+preciso que extraia apenas os campos que estão marcados como Allow, assim como o usuário que tem a devida permição
+Seja objetivo, pois irei usar os dados para preencher uma planilha
